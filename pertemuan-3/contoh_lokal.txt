@@ -1,0 +1,2 @@
+Halo ini dari Haris
+Berkas ini awalnya tersimpan di disk lokal VM.
