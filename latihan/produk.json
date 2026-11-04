@@ -1,0 +1,20 @@
+[
+    {
+        "produk_id": "PROD_A",
+        "nama_produk": "Headphone Wireless",
+        "kategori": "Elektronik",
+        "manager": "Bapak Agus"
+    },
+    {
+        "produk_id": "PROD_B",
+        "nama_produk": "Kemeja Casual",
+        "kategori": "Pakaian",
+        "manager": "Ibu Nina"
+    },
+    {
+        "produk_id": "PROD_C",
+        "nama_produk": "Kopi Premium",
+        "kategori": "Makanan",
+        "manager": "Bapak Budi"
+    }
+]

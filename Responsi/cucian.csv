@@ -1,0 +1,404 @@
+cucian_id,pegawai_id,cabang,jenis_layanan,waktu_proses_jam,biaya_cucian,status_cucian
+CCN-1000,PG010,Cabang Semarang,Cuci Kering,30.0,35000.0,Selesai
+CCN-1001,PG004,Cabang Semarang,CUCI KERING,19.0,35000.0,Selesai
+CCN-1002,PG014,Cabang Semarang,cuci kering,7.0,35000.0,Selesai
+CCN-1003,PG008,Cabang Yogyakarta,setrika,10.0,15000.0,Selesai
+CCN-1004,PG015,Cabang Magelang,cuci setrika,6.0,45000.0,Selesai
+CCN-1005,PG019,Cabang Semarang,cuci kering,27.0,15000.0,Selesai
+CCN-1006,PG021,Cabang Semarang,setrika,35.0,20000.0,Selesai
+CCN-1007,PG010,Cabang Semarang,Setrika,5.0,20000.0,Dibatalkan
+CCN-1008,PG012,Cabang Yogyakarta,cuci setrika,,45000.0,Selesai
+CCN-1009,PG018,Cabang Magelang,Setrika,24.0,25000.0,Selesai
+CCN-1010,PG017,Cabang Magelang,cuci setrika,26.0,20000.0,Selesai
+CCN-1011,PG010,Cabang Semarang,Cuci Setrika,35.0,45000.0,Selesai
+CCN-1012,PG003,Cabang Yogyakarta,Setrika,30.0,15000.0,Dibatalkan
+CCN-1013,PG006,Cabang Magelang,CUCI KERING,33.0,,Selesai
+CCN-1014,PG020,Cabang Magelang,cuci setrika,34.0,35000.0,Dibatalkan
+CCN-1015,PG012,Cabang Yogyakarta,Setrika,27.0,25000.0,Dibatalkan
+CCN-1016,PG018,Cabang Magelang,Cuci Setrika,9.0,20000.0,Selesai
+CCN-1017,PG016,Cabang Semarang,setrika,11.0,20000.0,Selesai
+CCN-1018,PG003,Cabang Yogyakarta,Cuci Kering,20.0,35000.0,Dibatalkan
+CCN-1019,PG018,Cabang Magelang,cuci setrika,23.0,25000.0,Dibatalkan
+CCN-1020,PG010,Cabang Semarang,Cuci Setrika,19.0,20000.0,Selesai
+CCN-1021,PG021,Cabang Semarang,CUCI KERING,14.0,25000.0,Selesai
+CCN-1022,PG009,Cabang Semarang,cuci kering,19.0,15000.0,Selesai
+CCN-1023,PG002,Cabang Yogyakarta,Setrika,19.0,15000.0,Selesai
+CCN-1024,PG017,Cabang Magelang,CUCI KERING,36.0,25000.0,Selesai
+CCN-1025,PG009,Cabang Semarang,cuci setrika,29.0,25000.0,Selesai
+CCN-1026,PG001,Cabang Magelang,CUCI KERING,30.0,15000.0,Selesai
+CCN-1027,PG009,Cabang Semarang,cuci setrika,26.0,20000.0,Dibatalkan
+CCN-1028,PG001,Cabang Magelang,Cuci Kering,5.0,25000.0,Selesai
+CCN-1029,PG018,Cabang Magelang,Cuci Setrika,2.0,20000.0,Dibatalkan
+CCN-1030,PG015,Cabang Magelang,Cuci Setrika,22.0,20000.0,Dibatalkan
+CCN-1031,PG021,Cabang Semarang,Cuci Setrika,30.0,35000.0,Selesai
+CCN-1032,PG018,Cabang Magelang,Cuci Kering,15.0,35000.0,Selesai
+CCN-1033,PG001,Cabang Magelang,cuci kering,17.0,35000.0,Dibatalkan
+CCN-1034,PG017,Cabang Magelang,Setrika,14.0,20000.0,Selesai
+CCN-1035,PG020,Cabang Magelang,setrika,35.0,15000.0,Dibatalkan
+CCN-1036,PG003,Cabang Yogyakarta,CUCI KERING,3.0,45000.0,Selesai
+CCN-1037,PG001,Cabang Magelang,cuci kering,12.0,25000.0,Selesai
+CCN-1038,PG012,Cabang Yogyakarta,cuci kering,25.0,25000.0,Selesai
+CCN-1039,PG014,Cabang Semarang,cuci setrika,15.0,25000.0,Selesai
+CCN-1040,PG017,Cabang Magelang,Setrika,6.0,45000.0,Selesai
+CCN-1041,PG005,Cabang Semarang,cuci kering,25.0,45000.0,Selesai
+CCN-1042,PG015,Cabang Magelang,Cuci Kering,11.0,35000.0,Dibatalkan
+CCN-1043,PG015,Cabang Magelang,CUCI KERING,4.0,35000.0,Selesai
+CCN-1044,PG004,Cabang Semarang,cuci kering,,35000.0,Selesai
+CCN-1045,PG019,Cabang Semarang,cuci kering,27.0,45000.0,Selesai
+CCN-1046,PG015,Cabang Magelang,cuci kering,20.0,25000.0,Selesai
+CCN-1047,PG013,Cabang Yogyakarta,CUCI KERING,8.0,45000.0,Selesai
+CCN-1048,PG011,Cabang Magelang,Cuci Setrika,22.0,25000.0,Selesai
+CCN-1049,PG005,Cabang Semarang,setrika,24.0,35000.0,Dibatalkan
+CCN-1050,PG008,Cabang Yogyakarta,cuci setrika,16.0,35000.0,Selesai
+CCN-1051,PG011,Cabang Magelang,Cuci Kering,21.0,20000.0,Selesai
+CCN-1052,PG010,Cabang Semarang,CUCI KERING,26.0,35000.0,Selesai
+CCN-1053,PG011,Cabang Magelang,Cuci Setrika,9.0,15000.0,Selesai
+CCN-1054,PG021,Cabang Semarang,Cuci Kering,34.0,20000.0,Selesai
+CCN-1055,PG021,Cabang Semarang,Setrika,36.0,25000.0,Selesai
+CCN-1056,PG018,Cabang Magelang,CUCI KERING,7.0,20000.0,Dibatalkan
+CCN-1057,PG016,Cabang Semarang,cuci setrika,9.0,45000.0,Dibatalkan
+CCN-1058,PG009,Cabang Semarang,Setrika,16.0,35000.0,Dibatalkan
+CCN-1059,PG009,Cabang Semarang,Setrika,27.0,25000.0,Selesai
+CCN-1060,PG016,Cabang Semarang,Setrika,15.0,45000.0,Selesai
+CCN-1061,PG014,Cabang Semarang,cuci kering,17.0,15000.0,Dibatalkan
+CCN-1062,PG014,Cabang Semarang,CUCI KERING,12.0,35000.0,Selesai
+CCN-1063,PG003,Cabang Yogyakarta,CUCI KERING,23.0,25000.0,Selesai
+CCN-1064,PG018,Cabang Magelang,Cuci Setrika,11.0,35000.0,Dibatalkan
+CCN-1065,PG002,Cabang Yogyakarta,setrika,18.0,45000.0,Dibatalkan
+CCN-1066,PG016,Cabang Semarang,cuci setrika,31.0,15000.0,Selesai
+CCN-1067,PG021,Cabang Semarang,Setrika,16.0,35000.0,Selesai
+CCN-1068,PG004,Cabang Semarang,Setrika,3.0,20000.0,Dibatalkan
+CCN-1069,PG013,Cabang Yogyakarta,Setrika,17.0,35000.0,Selesai
+CCN-1070,PG007,Cabang Semarang,CUCI KERING,36.0,45000.0,Dibatalkan
+CCN-1071,PG016,Cabang Semarang,CUCI KERING,23.0,20000.0,Selesai
+CCN-1072,PG006,Cabang Magelang,setrika,11.0,15000.0,Selesai
+CCN-1073,PG007,Cabang Semarang,Setrika,25.0,35000.0,Selesai
+CCN-1074,PG016,Cabang Semarang,CUCI KERING,33.0,20000.0,Selesai
+CCN-1075,PG020,Cabang Magelang,CUCI KERING,17.0,25000.0,Dibatalkan
+CCN-1076,PG017,Cabang Magelang,setrika,28.0,45000.0,Dibatalkan
+CCN-1077,PG007,Cabang Semarang,cuci kering,8.0,15000.0,Dibatalkan
+CCN-1078,PG021,Cabang Semarang,cuci kering,19.0,25000.0,Dibatalkan
+CCN-1079,PG005,Cabang Semarang,cuci setrika,4.0,45000.0,Dibatalkan
+CCN-1080,PG011,Cabang Magelang,cuci kering,2.0,15000.0,Dibatalkan
+CCN-1081,PG005,Cabang Semarang,Setrika,27.0,35000.0,Selesai
+CCN-1082,PG011,Cabang Magelang,cuci kering,27.0,45000.0,Selesai
+CCN-1083,PG019,Cabang Semarang,cuci setrika,33.0,25000.0,Selesai
+CCN-1084,PG010,Cabang Semarang,cuci setrika,6.0,25000.0,Dibatalkan
+CCN-1085,PG005,Cabang Semarang,Cuci Setrika,4.0,15000.0,Selesai
+CCN-1086,PG006,Cabang Magelang,cuci kering,27.0,25000.0,Dibatalkan
+CCN-1087,PG018,Cabang Magelang,Setrika,12.0,45000.0,Dibatalkan
+CCN-1088,PG011,Cabang Magelang,CUCI KERING,10.0,15000.0,Selesai
+CCN-1089,PG019,Cabang Semarang,CUCI KERING,24.0,20000.0,Dibatalkan
+CCN-1090,PG016,Cabang Semarang,Cuci Kering,16.0,15000.0,Selesai
+CCN-1091,PG020,Cabang Magelang,Setrika,13.0,20000.0,Selesai
+CCN-1092,PG016,Cabang Semarang,Setrika,31.0,15000.0,Selesai
+CCN-1093,PG008,Cabang Yogyakarta,Cuci Kering,24.0,35000.0,Dibatalkan
+CCN-1094,PG007,Cabang Semarang,cuci setrika,24.0,15000.0,Selesai
+CCN-1095,PG013,Cabang Yogyakarta,setrika,29.0,25000.0,Selesai
+CCN-1096,PG018,Cabang Magelang,cuci setrika,16.0,15000.0,Selesai
+CCN-1097,PG019,Cabang Semarang,cuci setrika,3.0,15000.0,Selesai
+CCN-1098,PG008,Cabang Yogyakarta,cuci kering,35.0,35000.0,Dibatalkan
+CCN-1099,PG020,Cabang Magelang,Cuci Kering,7.0,35000.0,Dibatalkan
+CCN-1100,PG021,Cabang Semarang,setrika,8.0,25000.0,Selesai
+CCN-1101,PG009,Cabang Semarang,CUCI KERING,16.0,25000.0,Dibatalkan
+CCN-1102,PG002,Cabang Yogyakarta,CUCI KERING,13.0,,Selesai
+CCN-1103,PG008,Cabang Yogyakarta,Setrika,26.0,45000.0,Selesai
+CCN-1104,PG021,Cabang Semarang,Setrika,14.0,35000.0,Selesai
+CCN-1105,PG006,Cabang Magelang,Setrika,23.0,35000.0,Selesai
+CCN-1106,PG016,Cabang Semarang,Cuci Kering,13.0,45000.0,Selesai
+CCN-1107,PG014,Cabang Semarang,cuci setrika,18.0,35000.0,Selesai
+CCN-1108,PG002,Cabang Yogyakarta,setrika,9.0,45000.0,Selesai
+CCN-1109,PG006,Cabang Magelang,Setrika,17.0,20000.0,Selesai
+CCN-1110,PG014,Cabang Semarang,Cuci Kering,6.0,15000.0,Selesai
+CCN-1111,PG007,Cabang Semarang,CUCI KERING,10.0,20000.0,Dibatalkan
+CCN-1112,PG001,Cabang Magelang,cuci setrika,16.0,20000.0,Selesai
+CCN-1113,PG015,Cabang Magelang,Cuci Kering,24.0,45000.0,Selesai
+CCN-1114,PG009,Cabang Semarang,Cuci Setrika,25.0,35000.0,Selesai
+CCN-1115,PG021,Cabang Semarang,cuci kering,5.0,45000.0,Selesai
+CCN-1116,PG002,Cabang Yogyakarta,setrika,13.0,20000.0,Dibatalkan
+CCN-1117,PG015,Cabang Magelang,CUCI KERING,10.0,35000.0,Selesai
+CCN-1118,PG008,Cabang Yogyakarta,setrika,30.0,20000.0,Selesai
+CCN-1119,PG002,Cabang Yogyakarta,Cuci Kering,20.0,15000.0,Dibatalkan
+CCN-1120,PG010,Cabang Semarang,Setrika,33.0,25000.0,Selesai
+CCN-1121,PG016,Cabang Semarang,setrika,13.0,25000.0,Selesai
+CCN-1122,PG018,Cabang Magelang,Setrika,16.0,35000.0,Selesai
+CCN-1123,PG002,Cabang Yogyakarta,cuci setrika,7.0,25000.0,Selesai
+CCN-1124,PG015,Cabang Magelang,setrika,18.0,25000.0,Selesai
+CCN-1125,PG008,Cabang Yogyakarta,setrika,16.0,20000.0,Dibatalkan
+CCN-1126,PG014,Cabang Semarang,Cuci Setrika,13.0,25000.0,Selesai
+CCN-1127,PG006,Cabang Magelang,setrika,20.0,15000.0,Selesai
+CCN-1128,PG005,Cabang Semarang,Cuci Setrika,25.0,45000.0,Dibatalkan
+CCN-1129,PG003,Cabang Yogyakarta,cuci kering,29.0,15000.0,Selesai
+CCN-1130,PG005,Cabang Semarang,cuci setrika,10.0,15000.0,Selesai
+CCN-1131,PG001,Cabang Magelang,Cuci Setrika,14.0,35000.0,Selesai
+CCN-1132,PG011,Cabang Magelang,cuci kering,9.0,15000.0,Selesai
+CCN-1133,PG006,Cabang Magelang,setrika,16.0,15000.0,Selesai
+CCN-1134,PG002,Cabang Yogyakarta,Cuci Kering,26.0,20000.0,Dibatalkan
+CCN-1135,PG002,Cabang Yogyakarta,cuci setrika,27.0,25000.0,Dibatalkan
+CCN-1136,PG001,Cabang Magelang,cuci kering,23.0,20000.0,Dibatalkan
+CCN-1137,PG009,Cabang Semarang,Setrika,9.0,25000.0,Dibatalkan
+CCN-1138,PG010,Cabang Semarang,cuci setrika,11.0,25000.0,Dibatalkan
+CCN-1139,PG020,Cabang Magelang,Cuci Kering,31.0,15000.0,Selesai
+CCN-1140,PG015,Cabang Magelang,setrika,7.0,25000.0,Selesai
+CCN-1141,PG014,Cabang Semarang,Cuci Kering,26.0,45000.0,Selesai
+CCN-1142,PG018,Cabang Magelang,Cuci Setrika,18.0,35000.0,Selesai
+CCN-1143,PG021,Cabang Semarang,CUCI KERING,8.0,15000.0,Selesai
+CCN-1144,PG014,Cabang Semarang,CUCI KERING,15.0,15000.0,Selesai
+CCN-1145,PG020,Cabang Magelang,Setrika,31.0,45000.0,Selesai
+CCN-1146,PG017,Cabang Magelang,setrika,8.0,15000.0,Selesai
+CCN-1147,PG020,Cabang Magelang,cuci kering,21.0,45000.0,Dibatalkan
+CCN-1148,PG020,Cabang Magelang,Setrika,3.0,25000.0,Selesai
+CCN-1149,PG010,Cabang Semarang,cuci setrika,30.0,35000.0,Selesai
+CCN-1150,PG015,Cabang Magelang,Setrika,,20000.0,Selesai
+CCN-1151,PG004,Cabang Semarang,cuci kering,28.0,15000.0,Selesai
+CCN-1152,PG014,Cabang Semarang,cuci setrika,13.0,35000.0,Selesai
+CCN-1153,PG008,Cabang Yogyakarta,cuci kering,34.0,15000.0,Selesai
+CCN-1154,PG016,Cabang Semarang,Setrika,20.0,20000.0,Selesai
+CCN-1155,PG021,Cabang Semarang,setrika,9.0,15000.0,Selesai
+CCN-1156,PG003,Cabang Yogyakarta,Cuci Kering,23.0,45000.0,Selesai
+CCN-1157,PG014,Cabang Semarang,setrika,16.0,45000.0,Selesai
+CCN-1158,PG006,Cabang Magelang,Cuci Setrika,2.0,45000.0,Dibatalkan
+CCN-1159,PG001,Cabang Magelang,Cuci Setrika,6.0,45000.0,Dibatalkan
+CCN-1160,PG001,Cabang Magelang,cuci kering,33.0,25000.0,Dibatalkan
+CCN-1161,PG005,Cabang Semarang,cuci setrika,25.0,20000.0,Selesai
+CCN-1162,PG014,Cabang Semarang,cuci kering,21.0,25000.0,Selesai
+CCN-1163,PG007,Cabang Semarang,cuci kering,14.0,35000.0,Selesai
+CCN-1164,PG003,Cabang Yogyakarta,Cuci Kering,35.0,15000.0,Selesai
+CCN-1165,PG003,Cabang Yogyakarta,cuci setrika,33.0,35000.0,Selesai
+CCN-1166,PG020,Cabang Magelang,Cuci Kering,32.0,45000.0,Selesai
+CCN-1167,PG007,Cabang Semarang,cuci setrika,24.0,15000.0,Selesai
+CCN-1168,PG016,Cabang Semarang,Cuci Setrika,29.0,25000.0,Selesai
+CCN-1169,PG014,Cabang Semarang,Setrika,14.0,45000.0,Dibatalkan
+CCN-1170,PG018,Cabang Magelang,Cuci Setrika,15.0,35000.0,Dibatalkan
+CCN-1171,PG004,Cabang Semarang,setrika,17.0,25000.0,Dibatalkan
+CCN-1172,PG002,Cabang Yogyakarta,Cuci Setrika,17.0,45000.0,Selesai
+CCN-1173,PG001,Cabang Magelang,cuci setrika,12.0,25000.0,Selesai
+CCN-1174,PG008,Cabang Yogyakarta,cuci kering,17.0,35000.0,Dibatalkan
+CCN-1175,PG004,Cabang Semarang,Cuci Kering,21.0,20000.0,Selesai
+CCN-1176,PG004,Cabang Semarang,cuci kering,11.0,20000.0,Dibatalkan
+CCN-1177,PG007,Cabang Semarang,cuci setrika,33.0,15000.0,Selesai
+CCN-1178,PG007,Cabang Semarang,cuci kering,20.0,45000.0,Selesai
+CCN-1179,PG006,Cabang Magelang,Cuci Kering,8.0,15000.0,Selesai
+CCN-1180,PG017,Cabang Magelang,setrika,5.0,20000.0,Selesai
+CCN-1181,PG009,Cabang Semarang,Cuci Kering,22.0,35000.0,Selesai
+CCN-1182,PG015,Cabang Magelang,Cuci Setrika,22.0,45000.0,Selesai
+CCN-1183,PG010,Cabang Semarang,cuci setrika,6.0,20000.0,Selesai
+CCN-1184,PG003,Cabang Yogyakarta,cuci kering,35.0,35000.0,Selesai
+CCN-1185,PG009,Cabang Semarang,Cuci Setrika,35.0,25000.0,Selesai
+CCN-1186,PG007,Cabang Semarang,Cuci Kering,2.0,20000.0,Selesai
+CCN-1187,PG012,Cabang Yogyakarta,CUCI KERING,10.0,35000.0,Dibatalkan
+CCN-1188,PG005,Cabang Semarang,CUCI KERING,23.0,25000.0,Selesai
+CCN-1189,PG002,Cabang Yogyakarta,Cuci Kering,31.0,20000.0,Selesai
+CCN-1190,PG003,Cabang Yogyakarta,Setrika,29.0,20000.0,Selesai
+CCN-1191,PG013,Cabang Yogyakarta,Setrika,7.0,15000.0,Selesai
+CCN-1192,PG018,Cabang Magelang,cuci setrika,,20000.0,Selesai
+CCN-1193,PG017,Cabang Magelang,cuci kering,35.0,25000.0,Selesai
+CCN-1194,PG009,Cabang Semarang,Setrika,17.0,35000.0,Selesai
+CCN-1195,PG018,Cabang Magelang,Setrika,16.0,45000.0,Dibatalkan
+CCN-1196,PG007,Cabang Semarang,setrika,15.0,45000.0,Selesai
+CCN-1197,PG001,Cabang Magelang,cuci setrika,18.0,15000.0,Selesai
+CCN-1198,PG003,Cabang Yogyakarta,cuci setrika,23.0,35000.0,Selesai
+CCN-1199,PG001,Cabang Magelang,CUCI KERING,33.0,25000.0,Dibatalkan
+CCN-1200,PG005,Cabang Semarang,Cuci Setrika,30.0,45000.0,Dibatalkan
+CCN-1201,PG021,Cabang Semarang,CUCI KERING,2.0,20000.0,Dibatalkan
+CCN-1202,PG019,Cabang Semarang,Setrika,7.0,15000.0,Selesai
+CCN-1203,PG011,Cabang Magelang,Cuci Kering,26.0,35000.0,Selesai
+CCN-1204,PG010,Cabang Semarang,CUCI KERING,28.0,20000.0,Selesai
+CCN-1205,PG003,Cabang Yogyakarta,Cuci Setrika,13.0,45000.0,Selesai
+CCN-1206,PG017,Cabang Magelang,setrika,13.0,35000.0,Selesai
+CCN-1207,PG003,Cabang Yogyakarta,Cuci Kering,32.0,35000.0,Selesai
+CCN-1208,PG007,Cabang Semarang,Cuci Kering,26.0,20000.0,Selesai
+CCN-1209,PG014,Cabang Semarang,Cuci Kering,24.0,20000.0,Dibatalkan
+CCN-1210,PG014,Cabang Semarang,CUCI KERING,7.0,45000.0,Selesai
+CCN-1211,PG010,Cabang Semarang,cuci setrika,33.0,15000.0,Selesai
+CCN-1212,PG020,Cabang Magelang,cuci kering,6.0,35000.0,Selesai
+CCN-1213,PG013,Cabang Yogyakarta,cuci kering,18.0,25000.0,Selesai
+CCN-1214,PG021,Cabang Semarang,CUCI KERING,9.0,25000.0,Dibatalkan
+CCN-1215,PG020,Cabang Magelang,cuci kering,19.0,45000.0,Dibatalkan
+CCN-1216,PG011,Cabang Magelang,Cuci Setrika,28.0,15000.0,Selesai
+CCN-1217,PG015,Cabang Magelang,CUCI KERING,23.0,20000.0,Dibatalkan
+CCN-1218,PG019,Cabang Semarang,cuci setrika,33.0,45000.0,Dibatalkan
+CCN-1219,PG012,Cabang Yogyakarta,CUCI KERING,32.0,45000.0,Dibatalkan
+CCN-1220,PG004,Cabang Semarang,CUCI KERING,24.0,25000.0,Selesai
+CCN-1221,PG007,Cabang Semarang,cuci kering,3.0,35000.0,Selesai
+CCN-1222,PG020,Cabang Magelang,Cuci Kering,35.0,15000.0,Dibatalkan
+CCN-1223,PG008,Cabang Yogyakarta,CUCI KERING,28.0,35000.0,Selesai
+CCN-1224,PG010,Cabang Semarang,cuci kering,15.0,35000.0,Selesai
+CCN-1225,PG004,Cabang Semarang,cuci setrika,6.0,45000.0,Selesai
+CCN-1226,PG012,Cabang Yogyakarta,cuci kering,24.0,45000.0,Selesai
+CCN-1227,PG012,Cabang Yogyakarta,Setrika,32.0,25000.0,Selesai
+CCN-1228,PG011,Cabang Magelang,Cuci Setrika,16.0,45000.0,Selesai
+CCN-1229,PG002,Cabang Yogyakarta,setrika,21.0,45000.0,Selesai
+CCN-1230,PG020,Cabang Magelang,Cuci Setrika,36.0,35000.0,Dibatalkan
+CCN-1231,PG006,Cabang Magelang,Setrika,31.0,35000.0,Dibatalkan
+CCN-1232,PG010,Cabang Semarang,CUCI KERING,-2.0,25000.0,Selesai
+CCN-1233,PG005,Cabang Semarang,cuci kering,35.0,15000.0,Selesai
+CCN-1234,PG001,Cabang Magelang,setrika,22.0,15000.0,Selesai
+CCN-1235,PG019,Cabang Semarang,Setrika,13.0,35000.0,Selesai
+CCN-1236,PG018,Cabang Magelang,Setrika,7.0,20000.0,Selesai
+CCN-1237,PG007,Cabang Semarang,Cuci Kering,25.0,15000.0,Selesai
+CCN-1238,PG004,Cabang Semarang,CUCI KERING,27.0,45000.0,Selesai
+CCN-1239,PG018,Cabang Magelang,Setrika,26.0,45000.0,Selesai
+CCN-1240,PG012,Cabang Yogyakarta,Setrika,30.0,25000.0,Dibatalkan
+CCN-1241,PG018,Cabang Magelang,setrika,4.0,25000.0,Dibatalkan
+CCN-1242,PG010,Cabang Semarang,setrika,33.0,20000.0,Selesai
+CCN-1243,PG009,Cabang Semarang,Setrika,31.0,15000.0,Selesai
+CCN-1244,PG015,Cabang Magelang,Cuci Kering,36.0,45000.0,Dibatalkan
+CCN-1245,PG014,Cabang Semarang,Setrika,27.0,20000.0,Selesai
+CCN-1246,PG020,Cabang Magelang,cuci kering,23.0,35000.0,Dibatalkan
+CCN-1247,PG013,Cabang Yogyakarta,Cuci Setrika,2.0,20000.0,Dibatalkan
+CCN-1248,PG016,Cabang Semarang,cuci kering,8.0,25000.0,Selesai
+CCN-1249,PG008,Cabang Yogyakarta,Setrika,22.0,35000.0,Selesai
+CCN-1250,PG007,Cabang Semarang,CUCI KERING,2.0,25000.0,Selesai
+CCN-1251,PG008,Cabang Yogyakarta,cuci kering,28.0,25000.0,Selesai
+CCN-1252,PG020,Cabang Magelang,Cuci Setrika,25.0,20000.0,Selesai
+CCN-1253,PG011,Cabang Magelang,cuci kering,27.0,25000.0,Dibatalkan
+CCN-1254,PG009,Cabang Semarang,CUCI KERING,35.0,25000.0,Dibatalkan
+CCN-1255,PG008,Cabang Yogyakarta,setrika,14.0,25000.0,Selesai
+CCN-1256,PG016,Cabang Semarang,cuci kering,18.0,20000.0,Dibatalkan
+CCN-1257,PG007,Cabang Semarang,cuci kering,2.0,45000.0,Selesai
+CCN-1258,PG016,Cabang Semarang,Cuci Kering,23.0,25000.0,Selesai
+CCN-1259,PG015,Cabang Magelang,Cuci Kering,24.0,15000.0,Selesai
+CCN-1260,PG013,Cabang Yogyakarta,cuci kering,29.0,45000.0,Selesai
+CCN-1261,PG004,Cabang Semarang,Cuci Kering,35.0,45000.0,Selesai
+CCN-1262,PG003,Cabang Yogyakarta,Setrika,2.0,45000.0,Selesai
+CCN-1263,PG004,Cabang Semarang,Cuci Setrika,3.0,35000.0,Selesai
+CCN-1264,PG018,Cabang Magelang,Cuci Kering,32.0,35000.0,Dibatalkan
+CCN-1265,PG013,Cabang Yogyakarta,setrika,21.0,35000.0,Selesai
+CCN-1266,PG020,Cabang Magelang,cuci setrika,8.0,45000.0,Selesai
+CCN-1267,PG011,Cabang Magelang,Setrika,16.0,20000.0,Selesai
+CCN-1268,PG011,Cabang Magelang,setrika,33.0,45000.0,Selesai
+CCN-1269,PG006,Cabang Magelang,CUCI KERING,13.0,45000.0,Selesai
+CCN-1270,PG021,Cabang Semarang,Cuci Kering,11.0,35000.0,Selesai
+CCN-1271,PG012,Cabang Yogyakarta,Setrika,22.0,15000.0,Selesai
+CCN-1272,PG011,Cabang Magelang,Cuci Setrika,16.0,35000.0,Selesai
+CCN-1273,PG011,Cabang Magelang,Cuci Kering,11.0,45000.0,Dibatalkan
+CCN-1274,PG020,Cabang Magelang,setrika,30.0,15000.0,Dibatalkan
+CCN-1275,PG014,Cabang Semarang,cuci kering,25.0,35000.0,Dibatalkan
+CCN-1276,PG005,Cabang Semarang,Cuci Kering,34.0,45000.0,Dibatalkan
+CCN-1277,PG012,Cabang Yogyakarta,cuci kering,35.0,35000.0,Selesai
+CCN-1278,PG017,Cabang Magelang,Cuci Setrika,33.0,20000.0,Selesai
+CCN-1279,PG021,Cabang Semarang,Cuci Kering,31.0,25000.0,Selesai
+CCN-1280,PG008,Cabang Yogyakarta,cuci kering,18.0,35000.0,Selesai
+CCN-1281,PG017,Cabang Magelang,Cuci Kering,36.0,45000.0,Selesai
+CCN-1282,PG019,Cabang Semarang,Cuci Setrika,-10.0,20000.0,Selesai
+CCN-1283,PG019,Cabang Semarang,Cuci Setrika,13.0,20000.0,Dibatalkan
+CCN-1284,PG003,Cabang Yogyakarta,cuci setrika,18.0,35000.0,Selesai
+CCN-1285,PG003,Cabang Yogyakarta,Cuci Kering,14.0,35000.0,Selesai
+CCN-1286,PG002,Cabang Yogyakarta,CUCI KERING,13.0,25000.0,Selesai
+CCN-1287,PG006,Cabang Magelang,cuci kering,10.0,25000.0,Selesai
+CCN-1288,PG009,Cabang Semarang,cuci kering,7.0,20000.0,Selesai
+CCN-1289,PG009,Cabang Semarang,cuci setrika,14.0,35000.0,Selesai
+CCN-1290,PG020,Cabang Magelang,setrika,6.0,25000.0,Selesai
+CCN-1291,PG002,Cabang Yogyakarta,Cuci Setrika,7.0,15000.0,Dibatalkan
+CCN-1292,PG018,Cabang Magelang,cuci setrika,6.0,35000.0,Selesai
+CCN-1293,PG009,Cabang Semarang,Cuci Kering,33.0,20000.0,Selesai
+CCN-1294,PG005,Cabang Semarang,setrika,21.0,25000.0,Dibatalkan
+CCN-1295,PG018,Cabang Magelang,cuci kering,5.0,25000.0,Selesai
+CCN-1296,PG009,Cabang Semarang,cuci setrika,7.0,45000.0,Selesai
+CCN-1297,PG020,Cabang Magelang,setrika,13.0,25000.0,Dibatalkan
+CCN-1298,PG008,Cabang Yogyakarta,Cuci Setrika,18.0,45000.0,Selesai
+CCN-1299,PG014,Cabang Semarang,Cuci Kering,21.0,15000.0,Dibatalkan
+CCN-1300,PG002,Cabang Yogyakarta,Setrika,31.0,20000.0,Selesai
+CCN-1301,PG010,Cabang Semarang,Setrika,33.0,45000.0,Selesai
+CCN-1302,PG017,Cabang Magelang,cuci setrika,10.0,35000.0,Selesai
+CCN-1303,PG017,Cabang Magelang,Setrika,25.0,15000.0,Selesai
+CCN-1304,PG020,Cabang Magelang,Setrika,25.0,45000.0,Selesai
+CCN-1305,PG003,Cabang Yogyakarta,cuci kering,5.0,45000.0,Selesai
+CCN-1306,PG015,Cabang Magelang,Cuci Setrika,29.0,15000.0,Selesai
+CCN-1307,PG004,Cabang Semarang,setrika,9.0,25000.0,Selesai
+CCN-1308,PG013,Cabang Yogyakarta,Setrika,35.0,15000.0,Dibatalkan
+CCN-1309,PG017,Cabang Magelang,cuci setrika,27.0,45000.0,Dibatalkan
+CCN-1310,PG009,Cabang Semarang,Cuci Setrika,2.0,15000.0,Selesai
+CCN-1311,PG002,Cabang Yogyakarta,cuci kering,21.0,25000.0,Dibatalkan
+CCN-1312,PG011,Cabang Magelang,CUCI KERING,35.0,45000.0,Dibatalkan
+CCN-1313,PG021,Cabang Semarang,cuci kering,16.0,35000.0,Selesai
+CCN-1314,PG011,Cabang Magelang,CUCI KERING,31.0,20000.0,Dibatalkan
+CCN-1315,PG016,Cabang Semarang,cuci kering,2.0,35000.0,Selesai
+CCN-1316,PG019,Cabang Semarang,CUCI KERING,25.0,35000.0,Selesai
+CCN-1317,PG019,Cabang Semarang,Setrika,9.0,15000.0,Selesai
+CCN-1318,PG019,Cabang Semarang,CUCI KERING,24.0,45000.0,Selesai
+CCN-1319,PG020,Cabang Magelang,setrika,10.0,25000.0,Dibatalkan
+CCN-1320,PG011,Cabang Magelang,cuci kering,13.0,20000.0,Selesai
+CCN-1321,PG020,Cabang Magelang,setrika,21.0,35000.0,Selesai
+CCN-1322,PG003,Cabang Yogyakarta,cuci setrika,33.0,25000.0,Dibatalkan
+CCN-1323,PG004,Cabang Semarang,Cuci Setrika,13.0,25000.0,Selesai
+CCN-1324,PG013,Cabang Yogyakarta,cuci setrika,15.0,15000.0,Dibatalkan
+CCN-1325,PG020,Cabang Magelang,setrika,10.0,45000.0,Selesai
+CCN-1326,PG015,Cabang Magelang,cuci kering,2.0,20000.0,Selesai
+CCN-1327,PG006,Cabang Magelang,cuci kering,22.0,45000.0,Selesai
+CCN-1328,PG002,Cabang Yogyakarta,CUCI KERING,24.0,45000.0,Selesai
+CCN-1329,PG006,Cabang Magelang,Cuci Setrika,22.0,45000.0,Selesai
+CCN-1330,PG007,Cabang Semarang,CUCI KERING,13.0,35000.0,Dibatalkan
+CCN-1331,PG021,Cabang Semarang,cuci setrika,25.0,35000.0,Selesai
+CCN-1332,PG013,Cabang Yogyakarta,Cuci Setrika,27.0,20000.0,Selesai
+CCN-1333,PG010,Cabang Semarang,setrika,21.0,15000.0,Selesai
+CCN-1334,PG002,Cabang Yogyakarta,Cuci Kering,2.0,20000.0,Selesai
+CCN-1335,PG011,Cabang Magelang,Setrika,15.0,45000.0,Dibatalkan
+CCN-1336,PG010,Cabang Semarang,Cuci Kering,6.0,25000.0,Selesai
+CCN-1337,PG021,Cabang Semarang,cuci kering,10.0,20000.0,Selesai
+CCN-1338,PG005,Cabang Semarang,setrika,18.0,45000.0,Selesai
+CCN-1339,PG006,Cabang Magelang,Cuci Setrika,25.0,25000.0,Selesai
+CCN-1340,PG009,Cabang Semarang,cuci kering,30.0,45000.0,Selesai
+CCN-1341,PG012,Cabang Yogyakarta,cuci setrika,17.0,15000.0,Dibatalkan
+CCN-1342,PG004,Cabang Semarang,cuci setrika,33.0,45000.0,Dibatalkan
+CCN-1343,PG014,Cabang Semarang,cuci setrika,6.0,35000.0,Dibatalkan
+CCN-1344,PG004,Cabang Semarang,CUCI KERING,10.0,25000.0,Selesai
+CCN-1345,PG006,Cabang Magelang,setrika,31.0,45000.0,Selesai
+CCN-1346,PG001,Cabang Magelang,Setrika,2.0,15000.0,Dibatalkan
+CCN-1347,PG005,Cabang Semarang,Cuci Setrika,28.0,15000.0,Selesai
+CCN-1348,PG012,Cabang Yogyakarta,setrika,3.0,20000.0,Selesai
+CCN-1349,PG003,Cabang Yogyakarta,CUCI KERING,13.0,45000.0,Selesai
+CCN-1350,PG001,Cabang Magelang,Setrika,15.0,35000.0,Selesai
+CCN-1351,PG007,Cabang Semarang,cuci setrika,25.0,45000.0,Dibatalkan
+CCN-1352,PG016,Cabang Semarang,cuci setrika,12.0,20000.0,Selesai
+CCN-1353,PG021,Cabang Semarang,Cuci Kering,13.0,20000.0,Dibatalkan
+CCN-1354,PG007,Cabang Semarang,cuci kering,29.0,45000.0,Selesai
+CCN-1355,PG017,Cabang Magelang,Cuci Setrika,24.0,45000.0,Selesai
+CCN-1356,PG002,Cabang Yogyakarta,Setrika,4.0,20000.0,Dibatalkan
+CCN-1357,PG011,Cabang Magelang,setrika,3.0,45000.0,Selesai
+CCN-1358,PG018,Cabang Magelang,Setrika,4.0,25000.0,Dibatalkan
+CCN-1359,PG009,Cabang Semarang,setrika,36.0,15000.0,Dibatalkan
+CCN-1360,PG011,Cabang Magelang,Cuci Setrika,22.0,35000.0,Selesai
+CCN-1361,PG011,Cabang Magelang,Cuci Kering,31.0,45000.0,Selesai
+CCN-1362,PG001,Cabang Magelang,cuci kering,31.0,25000.0,Selesai
+CCN-1363,PG005,Cabang Semarang,Cuci Kering,35.0,20000.0,Selesai
+CCN-1364,PG019,Cabang Semarang,cuci setrika,21.0,20000.0,Dibatalkan
+CCN-1365,PG014,Cabang Semarang,cuci setrika,29.0,35000.0,Dibatalkan
+CCN-1366,PG007,Cabang Semarang,cuci kering,18.0,25000.0,Selesai
+CCN-1367,PG006,Cabang Magelang,cuci kering,13.0,25000.0,Dibatalkan
+CCN-1368,PG005,Cabang Semarang,cuci kering,21.0,45000.0,Dibatalkan
+CCN-1369,PG007,Cabang Semarang,cuci setrika,25.0,35000.0,Selesai
+CCN-1370,PG020,Cabang Magelang,Cuci Kering,12.0,45000.0,Selesai
+CCN-1371,PG014,Cabang Semarang,cuci setrika,26.0,20000.0,Selesai
+CCN-1372,PG016,Cabang Semarang,setrika,12.0,35000.0,Selesai
+CCN-1373,PG011,Cabang Magelang,Cuci Kering,7.0,45000.0,Selesai
+CCN-1374,PG001,Cabang Magelang,Cuci Kering,25.0,20000.0,Selesai
+CCN-1375,PG020,Cabang Magelang,cuci setrika,17.0,25000.0,Selesai
+CCN-1376,PG002,Cabang Yogyakarta,setrika,32.0,45000.0,Selesai
+CCN-1377,PG013,Cabang Yogyakarta,cuci kering,24.0,45000.0,Selesai
+CCN-1378,PG020,Cabang Magelang,Setrika,3.0,45000.0,Selesai
+CCN-1379,PG015,Cabang Magelang,setrika,11.0,45000.0,Selesai
+CCN-1380,PG013,Cabang Yogyakarta,CUCI KERING,12.0,35000.0,Dibatalkan
+CCN-1381,PG008,Cabang Yogyakarta,Setrika,3.0,45000.0,Selesai
+CCN-1382,PG003,Cabang Yogyakarta,Cuci Setrika,31.0,15000.0,Dibatalkan
+CCN-1383,PG019,Cabang Semarang,Cuci Kering,12.0,25000.0,Selesai
+CCN-1384,PG018,Cabang Magelang,setrika,7.0,20000.0,Selesai
+CCN-1385,PG012,Cabang Yogyakarta,cuci setrika,36.0,35000.0,Dibatalkan
+CCN-1386,PG015,Cabang Magelang,CUCI KERING,5.0,35000.0,Selesai
+CCN-1387,PG021,Cabang Semarang,cuci kering,14.0,15000.0,Selesai
+CCN-1388,PG008,Cabang Yogyakarta,cuci kering,17.0,25000.0,Selesai
+CCN-1389,PG021,Cabang Semarang,Cuci Kering,4.0,25000.0,Selesai
+CCN-1390,PG013,Cabang Yogyakarta,Cuci Setrika,33.0,45000.0,Dibatalkan
+CCN-1391,PG017,Cabang Magelang,setrika,10.0,45000.0,Selesai
+CCN-1392,PG017,Cabang Magelang,Setrika,16.0,35000.0,Selesai
+CCN-1393,PG019,Cabang Semarang,Setrika,21.0,15000.0,Selesai
+CCN-1394,PG021,Cabang Semarang,cuci kering,3.0,20000.0,Selesai
+CCN-1395,PG007,Cabang Semarang,Cuci Kering,16.0,25000.0,Selesai
+CCN-1396,PG015,Cabang Magelang,setrika,23.0,20000.0,Selesai
+CCN-1397,PG016,Cabang Semarang,Setrika,19.0,20000.0,Selesai
+CCN-1398,PG018,Cabang Magelang,Cuci Kering,3.0,15000.0,Dibatalkan
+CCN-1399,PG015,Cabang Magelang,Cuci Setrika,3.0,45000.0,Selesai
+CCN-1006,PG021,Cabang Semarang,setrika,35.0,20000.0,Selesai
+CCN-1026,PG001,Cabang Magelang,CUCI KERING,30.0,15000.0,Selesai
+CCN-1092,PG016,Cabang Semarang,Setrika,31.0,15000.0,Selesai
