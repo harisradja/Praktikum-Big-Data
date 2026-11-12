@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/haris/praktikum-bigdata/Pertemuan%2010/tugas10_stream/batch_1.csv","timestamp":1794504742356,"batchId":0}
+{"path":"file:///home/haris/praktikum-bigdata/Pertemuan%2010/tugas10_stream/batch_2.csv","timestamp":1794504748762,"batchId":0}
+{"path":"file:///home/haris/praktikum-bigdata/Pertemuan%2010/tugas10_stream/batch_3.csv","timestamp":1794504754902,"batchId":0}
+{"path":"file:///home/haris/praktikum-bigdata/Pertemuan%2010/tugas10_stream/batch_4.csv","timestamp":1794504772985,"batchId":0}
